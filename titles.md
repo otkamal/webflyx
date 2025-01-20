@@ -1,4 +1,4 @@
-# titles
+# Titles
 
 - A River Runs Through it
 - Fight Club
